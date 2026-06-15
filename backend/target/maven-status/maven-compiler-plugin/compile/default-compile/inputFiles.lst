@@ -1,0 +1,12 @@
+C:\Users\Fy Nature\Gestionnaire-de-stocks\backend\src\main\java\com\gestion\produit\entity\TypeMouvement.java
+C:\Users\Fy Nature\Gestionnaire-de-stocks\backend\src\main\java\com\gestion\produit\service\StockService.java
+C:\Users\Fy Nature\Gestionnaire-de-stocks\backend\src\main\java\com\gestion\produit\repository\ProduitRepository.java
+C:\Users\Fy Nature\Gestionnaire-de-stocks\backend\src\main\java\com\gestion\produit\dto\MouvementStockRequest.java
+C:\Users\Fy Nature\Gestionnaire-de-stocks\backend\src\main\java\com\gestion\produit\entity\Produit.java
+C:\Users\Fy Nature\Gestionnaire-de-stocks\backend\src\main\java\com\gestion\produit\controller\ProduitController.java
+C:\Users\Fy Nature\Gestionnaire-de-stocks\backend\src\main\java\com\gestion\produit\repository\MouvementStockRepository.java
+C:\Users\Fy Nature\Gestionnaire-de-stocks\backend\src\main\java\com\gestion\produit\dto\StockStats.java
+C:\Users\Fy Nature\Gestionnaire-de-stocks\backend\src\main\java\com\gestion\produit\controller\StockController.java
+C:\Users\Fy Nature\Gestionnaire-de-stocks\backend\src\main\java\com\gestion\produit\entity\MouvementStock.java
+C:\Users\Fy Nature\Gestionnaire-de-stocks\backend\src\main\java\com\gestion\produit\GestionProduitApplication.java
+C:\Users\Fy Nature\Gestionnaire-de-stocks\backend\src\main\java\com\gestion\produit\service\ProduitService.java
